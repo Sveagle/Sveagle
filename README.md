@@ -1,3 +1,49 @@
+English translation:
+Hi! I'm Sviatoslav Orel (a.k.a. Sveagle) 👋
+
+Python developer passionate about web apps, automation, and bots. Currently diving deep into backend development and sharing my projects along the way.
+🛠 Tech Stack
+
+    Languages: Python, HTML/CSS
+
+    Frameworks: Django, Flask, Aiogram
+
+    Databases: SQLite, PostgreSQL
+
+    Tools: Git, Docker
+
+    APIs: Django REST, Telegram Bot API
+
+🔥 My Projects
+
+🤖 Telegram Bot (Aiogram)
+A simple bot with core features:
+
+    Menu buttons
+
+    Photo replies
+
+    Welcome messages
+
+🐍 PyGame Snake
+Classic Snake game with score tracking and dynamic difficulty.
+
+🌐 Blogicum (Django)
+A learning project: Django-powered blog with custom HTML/CSS.
+🌱 Currently Learning
+
+    Bot design patterns (FSM, middleware)
+
+    Async in Aiogram 3.x
+
+    Django query optimization
+
+📫 Get in Touch
+
+✉️ mrsveagle@gmail.com
+🔗 Telegram
+
+Russian translation:
 # Привет! Я Святослав Орел 👋
 
 Python-разработчик, увлечённый веб-приложениями, автоматизацией и ботами. Осваиваю бэкенд-разработку и делюсь проектами.
