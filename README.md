@@ -1,10 +1,11 @@
 # 👋 Привет! Я Святослав Орел (Sviatoslav Orel) a.k.a. Sveagle
-### 🐍 Backend & Automation Engineer | Django, Flask & Python
+### 🚀 Backend & Automation Engineer | Python, Django, Flask
 
 Креативный и целеустремленный **Python-разработчик**. Увлечён созданием надёжных **веб-приложений**, **автоматизацией процессов** и разработкой **Telegram-ботов**. Я превращаю сложные бизнес-задачи в чистые, эффективные и масштабируемые бэкенд-решения. **В настоящее время открыт к новым возможностям в области Backend-разработки.**
 
+---
 
-## 🔥 Мой Технический Стек (Tech Stack)
+## 🔥 Мой Технический Стек (Core Tech Stack)
 
 Я использую проверенные инструменты для разработки надёжного и современного бэкенда.
 
@@ -17,16 +18,14 @@
 | **API** | Django REST Framework, Telegram Bot API |
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
 </p>
 
-<br> 
-<div align="center"> ✨ 💡 ✨ </div>
-<br>
+---
 
 ## 🛠 Избранные Проекты (Open-Source Portfolio)
 
@@ -52,50 +51,42 @@
 * Динамическая система очков и сложности
 * Проект для отработки ООП и гейм-логики на Python
 
-<br> 
-<div align="center"> ✨ 📚 ✨ </div>
-<br>
+---
 
 ## 🌱 Мои Цели и Обучение (Next Level Skills)
 
 Я не останавливаюсь в развитии и активно осваиваю новые области, чтобы стать T-shaped специалистом.
 
-* **📊 Data Science & Data Analysis:** Углубление в Pandas, NumPy и визуализацию данных.
+* **📊 Data Science & Data Analysis:** Углубление в Pandas, NumPy и визуализацию данных. 
 * **🚀 CI/CD Практики:** Освоение GitHub Actions / GitLab CI для автоматического тестирования и деплоя.
 * **☁️ Облачные Сервисы:** Изучение основ AWS / Google Cloud для хостинга и масштабирования.
 
-<br> 
-<div align="center"> ✨ 📈 ✨ </div>
-<br>
+---
 
 ## 📊 Моя Активность на GitHub (Stats & Contributions)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sveagle&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="Sveagle's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sveagle&layout=compact&theme=vue&hide_border=true" alt="Sveagle's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sveagle&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="Sveagle's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sveagle&layout=compact&theme=vue&hide_border=true" alt="Sveagle's Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sveagle&theme=vue&hide_border=true" alt="GitHub Streak" /> 
 </p>
 
-<br> 
-<div align="center"> ✨ 📬 ✨ </div>
-<br>
+---
 
-## 📫 Связаться со мной
+## 📫 Связаться со мной (Get In Touch)
 
-Ищу интересные проекты и возможности для совместной работы. Пишите, чтобы обсудить предложения о работе!
+➡️ **Открыт к новым перспективам! Пишите, чтобы обсудить сотрудничество: mrsveagle@gmail.com** ⬅️
 
 <p align="center">
-  <a href="mailto:mrsveagle@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="https://t.me/Knight_Of_Swords" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="https://github.com/Sveagle" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
+  <a href="mailto:mrsveagle@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://t.me/Knight_Of_Swords" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://github.com/Sveagle" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
 </p>
 
 ***
-<p align="center">
-  <small>Код — это поэзия логики.</small>
-</p>
