@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXNqZnR5a3B0djI5aDNzMXhidjc5MWk3eW43eHd4dDFyYmozM203YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0NA8FxnoXQgI7OsIOQ/giphy.gif" width="30"/> 
-</div>
-
 # 👋 Привет! Я Святослав Орел (Sviatoslav Orel) a.k.a. Sveagle
 ### 🐍 Backend & Automation Engineer | Django, Flask & Python
 
