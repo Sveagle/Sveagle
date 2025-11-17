@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q3MDJkZDE0OGZlZmM2Y2VlNmIzYTk3N2U5OTdkZDgzNTMwMDViYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dthqWp0jU1rI31eT5y/giphy.gif" alt="Coding GIF" width="450"/>
+  <img src="https://media.giphy.com/media/qgM48o16Vq5k4/giphy.gif" alt="Coding GIF" width="450"/>
 </div>
 
 # 👋 Привет! Я Святослав Орел (Sviatoslav Orel) a.k.a. Sveagle
@@ -7,9 +7,7 @@
 
 Креативный и целеустремленный **Python-разработчик**. Увлечён созданием надёжных **веб-приложений**, **автоматизацией процессов** и разработкой **Telegram-ботов**. Я превращаю сложные бизнес-задачи в чистые, эффективные и масштабируемые бэкенд-решения. **В настоящее время открыт к новым возможностям в области Backend-разработки.**
 
-<br> 
-<div align="center"> ✨ ⚙️ ✨ </div>
-<br>
+---
 
 ## 🔥 Мой Технический Стек (Tech Stack)
 
@@ -31,9 +29,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
 </p>
 
-<br> 
-<div align="center"> ✨ 💡 ✨ </div>
-<br>
+---
 
 ## 🛠 Избранные Проекты (Open-Source Portfolio)
 
@@ -59,9 +55,7 @@
 * Динамическая система очков и сложности
 * Проект для отработки ООП и гейм-логики на Python
 
-<br> 
-<div align="center"> ✨ 📚 ✨ </div>
-<br>
+---
 
 ## 🌱 Мои Цели и Обучение (Next Level Skills)
 
@@ -73,25 +67,23 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions Badge"/>
 * **☁️ Облачные Сервисы:** Изучение основ AWS / Google Cloud для хостинга и масштабирования.
 
-<br> 
-<div align="center"> ✨ 📈 ✨ </div>
-<br>
+---
 
-## 📊 Моя Активность на GitHub
+## 📊 Моя Активность на GitHub (Stats & Contributions)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sveagle&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="Sveagle's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sveagle&layout=compact&theme=vue&hide_border=true" alt="Sveagle's Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sveagle&theme=vue&hide_border=true" alt="GitHub Streak" /> 
 </p>
 
-<br> 
-<div align="center"> ✨ 📬 ✨ </div>
-<br>
+---
 
 ## 📫 Связаться со мной
 
 Ищу интересные проекты и возможности для совместной работы. Пишите, чтобы обсудить предложения о работе!
 
+➡️ **Не стесняйтесь написать мне на почту! mrsveagle@gmail.com** ⬅️
 
 <p align="center">
   <a href="mailto:mrsveagle@gmail.com">
@@ -106,3 +98,5 @@
 </p>
 
 ***
+
+Если ты хочешь найти ещё одну, **более специализированную** GIF-анимацию на тему Python/Backend, я могу попробовать поискать. Что скажешь?
