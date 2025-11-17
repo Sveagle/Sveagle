@@ -7,9 +7,6 @@
 
 Креативный и целеустремленный **Python-разработчик**. Увлечён созданием надёжных **веб-приложений**, **автоматизацией процессов** и разработкой **Telegram-ботов**. Я превращаю сложные бизнес-задачи в чистые, эффективные и масштабируемые бэкенд-решения. **В настоящее время открыт к новым возможностям в области Backend-разработки.**
 
-<br> 
-<div align="center"> ✨ ⚙️ ✨ </div>
-<br>
 
 ## 🔥 Мой Технический Стек (Tech Stack)
 
@@ -80,7 +77,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sveagle&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="Sveagle's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sveagle&layout=compact&theme=vue&hide_border=true" alt="Sveagle's Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sveagle&theme=vue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <br> 
