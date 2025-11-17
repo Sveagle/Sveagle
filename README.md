@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliRamos/micaelliramos/main/images/emoji.gif" width="30"/> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q3MDJkZDE0OGZlZmM2Y2VlNmIzYTk3N2U5OTdkZDgzNTMwMDViYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dthqWp0jU1rI31eT5y/giphy.gif" alt="Coding GIF" width="450"/>
 </div>
 
 # 👋 Привет! Я Святослав Орел (Sviatoslav Orel) a.k.a. Sveagle
@@ -7,6 +7,9 @@
 
 Креативный и целеустремленный **Python-разработчик**. Увлечён созданием надёжных **веб-приложений**, **автоматизацией процессов** и разработкой **Telegram-ботов**. Я превращаю сложные бизнес-задачи в чистые, эффективные и масштабируемые бэкенд-решения. **В настоящее время открыт к новым возможностям в области Backend-разработки.**
 
+<br> 
+<div align="center"> ✨ ⚙️ ✨ </div>
+<br>
 
 ## 🔥 Мой Технический Стек (Tech Stack)
 
@@ -64,15 +67,17 @@
 
 Я не останавливаюсь в развитии и активно осваиваю новые области, чтобы стать T-shaped специалистом.
 
-* **📊 Data Science & Data Analysis:** Углубление в Pandas, NumPy и визуализацию данных.
+* **📊 Data Science & Data Analysis:** Углубление в Pandas, NumPy и визуализацию данных. 
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
 * **🚀 CI/CD Практики:** Освоение GitHub Actions / GitLab CI для автоматического тестирования и деплоя.
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions Badge"/>
 * **☁️ Облачные Сервисы:** Изучение основ AWS / Google Cloud для хостинга и масштабирования.
 
 <br> 
 <div align="center"> ✨ 📈 ✨ </div>
 <br>
 
-## 📊 Моя Активность на GitHub (Stats & Contributions)
+## 📊 Моя Активность на GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sveagle&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="Sveagle's GitHub Stats" />
@@ -87,6 +92,7 @@
 
 Ищу интересные проекты и возможности для совместной работы. Пишите, чтобы обсудить предложения о работе!
 
+
 <p align="center">
   <a href="mailto:mrsveagle@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
@@ -100,6 +106,3 @@
 </p>
 
 ***
-<p align="center">
-  <small>Код — это поэзия логики.</small>
-</p>
