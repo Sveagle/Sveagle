@@ -2,9 +2,9 @@
 Python developer passionate about web apps, automation, and bots. Building backend solutions and sharing open-source projects.  
 
 #### 🛠 Tech Stack  
-- **Languages**: Python, HTML/CSS  
+- **Languages**: Python, SQL, HTML/CSS, JavaScript
 - **Frameworks**: Django, Flask, Aiogram  
-- **Databases**: SQLite, PostgreSQL  
+- **Databases**: SQLite, PostgreSQL, SQLAlchemy
 - **Tools**: Git, Docker  
 - **APIs**: Django REST, Telegram Bot API  
 
@@ -15,13 +15,13 @@ Simple bot with menus, photo replies, and welcome messages.
 🐍 [PyGame Snake](https://github.com/Sveagle/the_snake)  
 Classic Snake game with score tracking and dynamic difficulty.  
 
-🌐 [Blogicum (Django)](https://github.com/Sveagle/django-sprint1)  
+🌐 [Engine View](https://github.com/Sveagle/Engine_View)  
 Educational blog project with Django and custom HTML/CSS.  
 
 #### 🌱 Learning Now  
-- Aiogram 3.x (async, FSM, middleware)  
-- Django performance (queries, caching)  
-- Clean architecture for bots  
+- Data Science
+- CI/CD procedures
+- Data Analysys  
 
 #### 📫 Reach Me  
 📧 mrsveagle@gmail.com  
@@ -35,7 +35,7 @@ Python-разработчик, увлечённый веб-приложения�
 ## 🛠 Мой стек
 - **Языки:** Python, HTML/CSS  
 - **Фреймворки:** Django, Flask, Aiogram
-- **Базы данных:** SQLite, PostgreSQL  
+- **Базы данных:** SQLite, PostgreSQL, SQLAlchemy  
 - **Инструменты:** Git, Docker  
 - **API:** Django REST, Telegram Bot API  
 
@@ -50,13 +50,13 @@ Python-разработчик, увлечённый веб-приложения�
 ### 🐍 [Змейка на PyGame](https://github.com/Sveagle/the_snake)  
 Классическая игра с очками и градацией сложности 
 
-### 🌐 [Сайт "Блогикум"](https://github.com/Sveagle/django-sprint1)  
-Учебный проект на Django с HTML/CSS версткой  
+### 🌐 [Engine View](https://github.com/Sveagle/Engine_View)
+Обработка отчетов и аналитика CSV файлов  
 
 ## 🌱 Что осваиваю сейчас
-- Паттерны проектирования для ботов (FSM, middleware)  
-- Асинхронность в Aiogram 3.x  
-- Оптимизацию Django-запросов  
+- CI/CD процессы
+- Анализ данных
+- Аналитика данных
 
 ## 📫 Как связаться
 ✉️ mrsveagle@gmail.com  
