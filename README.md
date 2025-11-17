@@ -68,7 +68,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sveagle&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="Sveagle's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sveagle&layout=compact&theme=vue&hide_border=true" alt="Sveagle's Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sveagle&theme=vue&hide_border=true" alt="GitHub Streak" /> 
 </p>
 
 ---
