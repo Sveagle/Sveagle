@@ -1,63 +1,98 @@
-### Hi there! I'm Svyatoslav Orel (a.k.a. Sveagle) 👋  
-Python developer passionate about web apps, automation, and bots. Building backend solutions and sharing open-source projects.  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliRamos/micaelliramos/main/images/emoji.gif" width="30"/> 
+</div>
 
-#### 🛠 Tech Stack  
-- **Languages**: Python, SQL, HTML/CSS, JavaScript
-- **Frameworks**: Django, Flask, Aiogram  
-- **Databases**: SQLite, PostgreSQL, SQLAlchemy
-- **Tools**: Git, Docker  
-- **APIs**: Django REST, Telegram Bot API  
+# 👋 Привет! Я Святослав Орел (Svyatoslav Orel) a.k.a. Sveagle
+### 🐍 Backend & Automation Engineer | Django, Flask & Python
 
-#### 🔥 My Projects  
-🤖 [Telegram Bot (Aiogram)](https://github.com/Sveagle/Telegram_bot)  
-Simple bot with menus, photo replies, and welcome messages.  
+Креативный **Python-разработчик** из Украины. Увлечён созданием надёжных **веб-приложений**, **автоматизацией процессов** и разработкой **Telegram-ботов**. Моя миссия — превращать сложные бизнес-задачи в чистые, эффективные и масштабируемые бэкенд-решения.
 
-🐍 [PyGame Snake](https://github.com/Sveagle/the_snake)  
-Classic Snake game with score tracking and dynamic difficulty.  
+---
 
-🌐 [Engine View](https://github.com/Sveagle/Engine_View)  
-Educational blog project with Django and custom HTML/CSS.  
+## 🔥 Мой Технический Стек (Tech Stack)
 
-#### 🌱 Learning Now  
-- Data Science
-- CI/CD procedures
-- Data Analysys  
+Я использую проверенные инструменты для разработки надёжного и современного бэкенда.
 
-#### 📫 Reach Me  
-📧 mrsveagle@gmail.com  
-💬 [Telegram](https://t.me/Knight_Of_Swords)
+| Категория | Технологии |
+| :--- | :--- |
+| **Языки** | Python 🐍, SQL, HTML/CSS, JavaScript |
+| **Фреймворки** | Django (REST), Flask, **Aiogram** (Bots) |
+| **Базы Данных** | PostgreSQL, SQLite, SQLAlchemy |
+| **Инфраструктура** | Docker 🐳, Git |
+| **API** | Django REST Framework, Telegram Bot API |
 
-Russian translation:
-# Привет! Я Святослав Орел 👋
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
+</p>
 
-Python-разработчик, увлечённый веб-приложениями, автоматизацией и ботами. Осваиваю бэкенд-разработку и делюсь проектами.
+---
 
-## 🛠 Мой стек
-- **Языки:** Python, HTML/CSS  
-- **Фреймворки:** Django, Flask, Aiogram
-- **Базы данных:** SQLite, PostgreSQL, SQLAlchemy  
-- **Инструменты:** Git, Docker  
-- **API:** Django REST, Telegram Bot API  
+## 🛠 Избранные Проекты (Open-Source Portfolio)
 
-## 🔥 Мои проекты
+Здесь представлены проекты, которые демонстрируют мой опыт в веб-разработке, автоматизации и геймдеве.
 
-### 🤖 [Telegram-бот на Aiogram](https://github.com/Sveagle/Telegram_bot)  
-Простейший бот с базовым функционалом:  
-- Кнопки меню  
-- Отправка фото  
-- Приветственное сообщение
+### 🤖 Telegram Bot (Aiogram)
+*Проект:* [**Telegram_bot**](https://github.com/Sveagle/Telegram_bot)
+Простой, но функциональный бот для Telegram. Включает базовые элементы взаимодействия:
+* Кнопки меню (`Inline/Reply`)
+* Отправка медиа (фото)
+* Обработка команд и приветственные сообщения
 
-### 🐍 [Змейка на PyGame](https://github.com/Sveagle/the_snake)  
-Классическая игра с очками и градацией сложности 
+### 🌐 Engine View (Django Web App)
+*Проект:* [**Engine_View**](https://github.com/Sveagle/Engine_View)
+Образовательный блог-проект на базе **Django** с акцентом на **аналитику и обработку CSV-файлов**.
+* Разработка бэкенда на Django
+* Кастомный HTML/CSS для фронтенда
+* Применение аналитических функций
 
-### 🌐 [Engine View](https://github.com/Sveagle/Engine_View)
-Обработка отчетов и аналитика CSV файлов  
+### 🐍 The Snake Game (PyGame)
+*Проект:* [**the_snake**](https://github.com/Sveagle/the_snake)
+Классическая игра "Змейка", реализованная на PyGame. Идеальный пример работы с логикой, состоянием и циклом игры:
+* Динамическая система очков и сложности
+* Проект для отработки ООП и гейм-логики на Python
 
-## 🌱 Что осваиваю сейчас
-- CI/CD процессы
-- Анализ данных
-- Аналитика данных
+---
 
-## 📫 Как связаться
-✉️ mrsveagle@gmail.com  
-🔗 [Telegram](https://t.me/Knight_Of_Swords)
+## 🌱 Мои Цели и Обучение
+
+Я не останавливаюсь в развитии и активно осваиваю новые области, чтобы стать T-shaped специалистом.
+
+* **📊 Data Science & Data Analysis:** Углубление в Pandas, NumPy и визуализацию данных.
+* **🚀 CI/CD Практики:** Освоение GitHub Actions / GitLab CI для автоматического тестирования и деплоя.
+* **☁️ Облачные Сервисы:** Изучение основ AWS / Google Cloud для хостинга и масштабирования.
+
+---
+
+## 📊 Моя Активность на GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sveagle&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="Sveagle's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sveagle&layout=compact&theme=vue&hide_border=true" alt="Sveagle's Top Languages" />
+</p>
+
+---
+
+## 📫 Связаться со мной
+
+Ищу интересные проекты и возможности для совместной работы. Пишите, чтобы обсудить разработку бэкенда, автоматизацию или ботов!
+
+<p>
+  <a href="mailto:mrsveagle@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://t.me/Knight_Of_Swords" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://github.com/Sveagle" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</p>
+
+***
+<p align="center">
+  <small>Код — это поэзия логики.</small>
+</p>
